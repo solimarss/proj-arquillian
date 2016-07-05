@@ -1,0 +1,2 @@
+https://lucianomolinari.wordpress.com/2012/03/18/testando-aplicacoes-jee6-com-arquillian/
+
