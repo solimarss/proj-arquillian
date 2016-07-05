@@ -85,14 +85,14 @@
 		</dependency>
 	</dependencies>
 
+	<!-- CONFIGURAR VERSÃO DO JAVA PARA 1.7 -->
 	<build>
 		<plugins>
 			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
-				<!-- Versão do plugin maven -->
 				<version>3.1</version>
 				<configuration>
-					<!-- Versão do java -->
 					<source>1.7</source>
 					<target>1.7</target>
 				</configuration>
